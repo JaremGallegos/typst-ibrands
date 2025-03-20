@@ -1,0 +1,14 @@
+[package]
+name = "ibrands"
+version = "1.0.0"
+entrypoint = "ibrands.typ"
+authors = ["mistral"]
+license = "MIT"
+description = "Brands icons for Typst."
+homepage = "https://github.com/JaremGallegos/typst-ibrands"
+keywords = ["icon", "brand", "ibrands", "icons"]
+exclude = ["sample"]
+
+[template]
+path = "impl"
+entrypoint = "ibrands.typ"
